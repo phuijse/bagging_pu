@@ -5,6 +5,6 @@ Mordelet, F., Vert, J.-P. A bagging SVM to learn from positive and unlabeled exa
 
 
 TODO
-
+- Parallel bagging
 - Implement performance measures from https://arxiv.org/pdf/1504.06837v2.pdf
 
